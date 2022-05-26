@@ -1,13 +1,14 @@
 ---
-title: hi amin
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Welcome
+subtitle: to the Leeds Beckett Games society rewind
+image: img/beckettheader.png
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Thank you
+  text: This year has been an amazing journey for us and it has been a pleasure
+    being able to bring joy to as much people as possible, bringing a society
+    back to life and transforming it into what it is today. To showcase our
+    society, I've created this site to show our highlights and what we achieved
+    over the year
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
