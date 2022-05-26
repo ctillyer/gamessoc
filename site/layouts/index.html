@@ -6,13 +6,13 @@
 
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "/values") }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/test") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "/test") }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/test3") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "/test3") }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/test4") }}
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "/test4") }}
 
 {{ partial "blog" . }}
 
