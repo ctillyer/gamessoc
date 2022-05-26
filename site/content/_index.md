@@ -33,4 +33,22 @@ values:
     of colonialism and mindless abuse of natural resources and human lives. We
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
+test1:
+  heading: Our 2
+  text: 2 is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
+test2:
+  heading: Our 2
+  text: 2 is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
+test3:
+  heading: Our 3
+  text: 3 is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
